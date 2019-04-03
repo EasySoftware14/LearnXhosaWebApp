@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnXhosaWebApp", "LearnXhosaWebApp\LearnXhosaWebApp.csproj", "{A9D140B0-94DD-4290-95C8-15A8530A0962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnXhosaWebApp.Tests", "LearnXhosaWebApp.Tests\LearnXhosaWebApp.Tests.csproj", "{200B8585-89B3-443F-AF4E-5378F9454DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D140B0-94DD-4290-95C8-15A8530A0962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D140B0-94DD-4290-95C8-15A8530A0962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D140B0-94DD-4290-95C8-15A8530A0962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D140B0-94DD-4290-95C8-15A8530A0962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200B8585-89B3-443F-AF4E-5378F9454DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200B8585-89B3-443F-AF4E-5378F9454DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200B8585-89B3-443F-AF4E-5378F9454DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200B8585-89B3-443F-AF4E-5378F9454DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB3D7834-0A97-42E3-B739-8FFFA057101C}
+	EndGlobalSection
+EndGlobal
